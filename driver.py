@@ -33,7 +33,10 @@ elul: month in the Hebrew calendar corresponding to August - September
 reek: state of smelling badly
 """
 
+# HERE'S WHERE THE MAGIC HAPPENS!
+# Edit the value of 'exWord' to alter the output
 
-exWord = "beer" # word must be lowercase
+exWord = "beer" # word must be lowercase, no special characters or punctuation
+
 make_wordblock(exWord)
 
