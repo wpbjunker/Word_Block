@@ -35,8 +35,9 @@ reek: state of smelling badly
 
 # HERE'S WHERE THE MAGIC HAPPENS!
 # Edit the value of 'exWord' to alter the output
+# Requirements: all lowercase, no special characters or punctuation
 
-exWord = "beer" # word must be lowercase, no special characters or punctuation
+exWord = "beer" # <-- Edit Here!
 
 make_wordblock(exWord)
 
