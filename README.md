@@ -14,7 +14,7 @@ Given the starting word "beer", [here's an example of terminal output.](images/d
 
 Personally, my favorite find so far has been this:  
 
-b   a   b   y  
+b &nbsp; a &nbsp; b &nbsp; y  
 e   y   l   e  
 e   l   u   l  
 r   e   e   k  
