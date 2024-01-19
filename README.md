@@ -14,10 +14,10 @@ Given the starting word "beer", [here's an example of terminal output.](images/d
 
 Personally, my favorite find so far has been this:  
 
-b a b y  
-e y l e  
-e l u l  
-r e e k  
+b   a   b   y  
+e   y   l   e  
+e   l   u   l  
+r   e   e   k  
 
 beer: grain-based fermented alcohol  
 ayle: archaic term for grandfather  
@@ -46,8 +46,7 @@ Though the palindromic nature of the Sator Square and similar acrostics non-viab
 characters, the concept of a square of interlacing words adds an interesting level of complexity to the puzzle, and increases the number of  
 possible word combinations for replayability's sake.  
 
-As of now, the program's sole function is to generate word blocks, which has been interesting enough for me as I'm simply not clever enough to  
-come up with them without the brute force of a computer.
+As of now, the program's sole function is to generate word blocks, which has been interesting enough for me as I'm simply not clever enough to come up with them without the brute force of a computer.
 
 
 Installation & Use
@@ -58,17 +57,14 @@ Using the program is simple, just run 'driver.py' and it will begin printing to 
 Feel free to try different starting words! Open 'driver.py' in your favorite text editor, and change the value of the variable any word of your  
 choice, or any combination of letters, really. The program isn't dependent on the starting word existing in the dictionary, so you can use your  
 name, your pet's name, your favorite place, or some gobbledigook, and it'll still work. However, I recommend using 5-letter words or less. In my  
-expereince, there appears ot be some optimization issues with longer words.  
+experience, there appears to be some optimization issues with longer words.  
 
-**NOTE: only use lower-case, the program is case-sensitive! I've said so directly in the code's documentation, so consider yourself doubly warned.**  
+**NOTE: Only use lower-case, the program is case-sensitive!**  
 
 
 Future Plans
 ------
 Listed in order of priority:
 1. Migrate the dictionary on which this program is based to the simplified MIT dictionary of the 10,000 most common English words.
-2. Develop a simple UI to accept and validate input words, and to allow the user to prematurely stop the generation of word blocks without  
-   aborting the program entirely.
-3. Write new code to generate and write **all** possible word blocks of a given side-length. This only makes sense once the new dictionary is  
-   implemented, as the number of possible words will be an order of magnitude smaller. It takes an unreasonably long time to generate all  
-   possible word blocks *with* a starting word under the current dictionary. A list of all word blocks would form the basis for a Wordle-clone.
+2. Develop a simple UI to accept and validate input words, and to allow the user to prematurely stop the generation of word blocks without aborting the program entirely.
+3. Write new code to generate and write **all** possible word blocks of a given side-length. This only makes sense once the new dictionary is implemented, as the number of possible words will be an order of magnitude smaller. It takes an unreasonably long time to generate all possible word blocks *with* a starting word under the current dictionary. A list of all word blocks would form the basis for a Wordle-clone.
