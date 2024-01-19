@@ -1,4 +1,4 @@
-# **Word Block:** a square acrostic where each row and column forms a word
+# **Word Block:** a 2-dimensional square acrostic generator
 
 Description
 ------
@@ -15,7 +15,7 @@ Personally, my favorite find so far has been this:
 
 b &nbsp; a &nbsp; b &nbsp; y  
 e &nbsp; y &nbsp; &nbsp;l &nbsp; e  
-e &nbsp; l &nbsp; u &nbsp; &nbsp;l  
+e &nbsp; l &nbsp; &nbsp;u &nbsp; l  
 r &nbsp; e &nbsp; e &nbsp; k  
 
 beer: grain-based fermented alcohol  
