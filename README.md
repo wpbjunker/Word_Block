@@ -1,4 +1,4 @@
-# **Word Block:** a 2-dimensional square acrostic generator
+# **Word Block:** a square acrostic generator
 
 Description
 ------
