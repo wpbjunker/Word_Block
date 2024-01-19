@@ -15,9 +15,9 @@ Given the starting word "beer", [here's an example of terminal output.](images/d
 Personally, my favorite find so far has been this:  
 
 b &nbsp; a &nbsp; b &nbsp; y  
-e   y   l   e  
-e   l   u   l  
-r   e   e   k  
+e &nbsp; y &nbsp; l &nbsp; e  
+e &nbsp; l &nbsp; u &nbsp; l  
+r &nbsp; e &nbsp; e &nbsp; k  
 
 beer: grain-based fermented alcohol  
 ayle: archaic term for grandfather  
