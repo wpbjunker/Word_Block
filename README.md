@@ -1,5 +1,4 @@
-# **Word Block**
-#### A Square Acrostic Where Each Row and Column Forms a Word
+# **Word Block:** a square acrostic where each row and column forms a word
 
 Description
 ------
@@ -15,8 +14,8 @@ Given the starting word "beer", [here's an example of terminal output.](images/d
 Personally, my favorite find so far has been this:  
 
 b &nbsp; a &nbsp; b &nbsp; y  
-e &nbsp; y &nbsp; l &nbsp; e  
-e &nbsp; l &nbsp; u &nbsp; l  
+e &nbsp; y &nbsp; &nbsp;l &nbsp; e  
+e &nbsp; l &nbsp; u &nbsp; &nbsp;l  
 r &nbsp; e &nbsp; e &nbsp; k  
 
 beer: grain-based fermented alcohol  
